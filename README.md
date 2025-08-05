@@ -1,4 +1,4 @@
-# Olympic Games Data Analysis: A Case Study
+# Olympic Games Data Analysis:
 
 ### _Analyzing 120 Years of Olympic History with Python_
 
